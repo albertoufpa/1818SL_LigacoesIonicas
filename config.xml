@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.phonegap.example"
+    versionCode = "10"
+    version     = "0.0.1" >
+<platform name="android">
+  <icon src="icon.jpg" width="180" height="180" />
+</platform>
+<!-- versionCode is optional and Android only -->
+
+  <name>1818SL_LigacoesIonicas</name>
+
+  <description>
+ Campus Universitário de Marajó-Breves - Universidade Federal do Pará  </description>
+
+  <author href="https://ova-breves.000webhostapp.com" email="ufpa.alberto@gmail.com">
+    Samuel Loureiro          Orientação: Gleiciane Leal  </author>
+
+</widget>
